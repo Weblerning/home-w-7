@@ -1,0 +1,27 @@
+body{
+	margin:0;
+	background-color:pink;
+}
+.name {
+	text-align: center;
+	background-color: #b35151;
+	color: #b1f43a;
+}
+img {
+	width: 500px;
+	height:100px;
+}
+.all-elements {
+	font-size:22px;
+	text-align:center;
+	color: green;
+}
+#me {
+	color: #ffffff;
+	text-align: end;
+	font-size: 12px;
+	background-color: #0aac86;
+	width: 100px;
+	margin-left: 87%;
+	margin-top: 180px;
+}

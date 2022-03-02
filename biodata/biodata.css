@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+	background-color:#00cec9;
+	color:#ffffff;
+	margin:30px;
+}
+.name>h2 {
+	text-align: center;
+	background-color:#6c5ce7;
+}
+.name>b {
+	font-size:20px; 
+}
+.signature {
+	text-align: right;
+	font-size:20px;
+}
+h3{
+	color:#009432;
+	background-color:#00b894;
+}
